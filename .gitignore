@@ -1,3 +1,4 @@
 /downloads/*
 /reports/*
 downloaded_apps.json
+processed_files.json
