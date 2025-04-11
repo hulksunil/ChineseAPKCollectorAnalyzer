@@ -1,4 +1,8 @@
 
+## IMPORTANT - READ BEFORE RUNNING
+If all else fails, spam the ctrl + c buttons  
+*or just kill the running terminals cuz it uses a lot of memory*
+
 
 ## Runnning the scripts
 ### APK Downloader

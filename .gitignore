@@ -1,4 +1,9 @@
 /downloads/*
 /reports/*
 downloaded_apps.json
-processed_files.json
+analyzed_files.json
+
+app_downloader_apk-pure.py
+app_downloader_sj-qq.py
+report_utils.py
+
